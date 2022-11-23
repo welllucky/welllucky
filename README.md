@@ -1,11 +1,10 @@
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Welllucky&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Welllucky&theme=great-gatsby&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Welllucky&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 # 💫 About Me:
 🔎 UX and UI Designer<br>☕ Java Development Student<br>👩‍💻 ADS student at Faculdade Senac<br>💎 Shipped at Porto Digital Ecosystem<br>✅ Creator of Faça a Lista Project
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Welllucky&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Welllucky&theme=great-gatsby&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Welllucky&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/battdsg) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/welllucky) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/battdsg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wellingtonlucas) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@battdsg) 
