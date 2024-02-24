@@ -1,6 +1,6 @@
 <h2>Hello, I'm</h2>
           <li>🔎 UX and UI Designer</li>
-          <li>👩‍💻 Systems analysis and development student at Senac College</li>
+          <li>👩‍💻 Jr Software Engineer at Fcx Labs</li>
           <li>💎 Shipped at Porto Digital Ecosystem</li>
           <li style="display: none">✅ Creator of Faça a Lista Project</li>
       <section
