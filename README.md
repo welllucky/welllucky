@@ -1,5 +1,5 @@
 <h2>Hello, I'm</h2>
-          <li>👩‍💻 Pl Software Engineer</li>
+          <li>👩‍💻 Mid level Software Engineer</li>
           <li>🔎 UX and UI Designer</li>
           <li>💎 Shipped at Porto Digital Ecosystem</li>
           <li style="display: none">✅ Creator of Faça a Lista Project</li>
