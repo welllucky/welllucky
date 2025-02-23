@@ -31,6 +31,7 @@
       </section>
       <section
       >
+          <img src="https://www.codewars.com/users/Welllucky/badges/large">
         <h2>Contact me</h2>
         <div>
           <a href="https://behance.net/battdsg">
