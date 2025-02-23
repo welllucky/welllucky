@@ -31,7 +31,7 @@
       </section>
       <section
       >
-          <img src="https://www.codewars.com/users/Welllucky/badges/large">
+          <img src="https://www.codewars.com/users/Welllucky/badges/small">
         <h2>Contact me</h2>
         <div>
           <a href="https://behance.net/battdsg">
