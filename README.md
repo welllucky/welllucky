@@ -34,25 +34,25 @@
           <img src="https://www.codewars.com/users/Welllucky/badges/small">
         <h2>Contact me</h2>
         <div>
-          <a href="https://behance.net/welllucky">
+          <a href="https://behance.net/welllucky" targe="_blank">
             <img
               src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white"
               alt="Behance"
             />
           </a>
-          <a href="https://linkedin.com/in/welllucky">
+          <a href="https://linkedin.com/in/welllucky" targe="_blank">
             <img
               src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"
               alt="LinkedIn"
             />
           </a>
-          <a href="https://medium.com/@welllucky">
+          <a href="https://medium.com/@welllucky" targe="_blank">
             <img
               src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"
               alt="LinkedIn"
             />
           </a>
-           <a href = "mailto:wellingtonbat.wl@gmail.com"><img style="width:70px" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+           <a href = "mailto:wellingtonbat.wl@gmail.com" targe="_blank"><img style="width:70px" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
         </div>
       </section>
       <br/>
