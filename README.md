@@ -34,19 +34,19 @@
           <img src="https://www.codewars.com/users/Welllucky/badges/small">
         <h2>Contact me</h2>
         <div>
-          <a href="https://behance.net/battdsg">
+          <a href="https://behance.net/welllucky">
             <img
               src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white"
               alt="Behance"
             />
           </a>
-          <a href="https://linkedin.com/in/wellingtonlucas">
+          <a href="https://linkedin.com/in/welllucky">
             <img
               src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"
               alt="LinkedIn"
             />
           </a>
-          <a href="https://medium.com/@battdsg">
+          <a href="https://medium.com/@welllucky">
             <img
               src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"
               alt="LinkedIn"
